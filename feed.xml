@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Litshare</title>
+    <link>https://daichuan-cqu.github.io/litshare-podcast/</link>
+    <atom:link href="https://daichuan-cqu.github.io/litshare-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <description><![CDATA[Protein Degradation English Corner — a dual-dialogue English podcast on targeted protein degradation: PROTACs, molecular glues, and E3 ligases. Hosted by David and Alex. Each episode unpacks one paper in plain spoken English. Episodes are presented at 0.8x speed, for English learners following along with the transcript. From Litshare.]]></description>
+    <itunes:author>Litshare</itunes:author>
+    <itunes:summary><![CDATA[Protein Degradation English Corner — a dual-dialogue English podcast on targeted protein degradation: PROTACs, molecular glues, and E3 ligases. Hosted by David and Alex. Each episode unpacks one paper in plain spoken English. Episodes are presented at 0.8x speed, for English learners following along with the transcript. From Litshare.]]></itunes:summary>
+    <itunes:category text="Science" />
+    <itunes:image href="https://daichuan-cqu.github.io/litshare-podcast/cover.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>EP2 | Nature | Christina M. Woo: The Degron Thalidomide Was Copying</title>
+      <description><![CDATA[Thalidomide and lenalidomide work by binding cereblon (CRBN), the substrate adapter of the CRL4 E3 ubiquitin ligase, and redirecting it to destroy new proteins. But CRBN is an ancient, conserved protein that predates these drugs by hundreds of millions of years. What does it recognize on its own? A team from Harvard University and the University of Southern California, led by Christina M. Woo, reports that the natural signal is a C-terminal cyclic imide — a chemical tag that forms spontaneously when glutamine or asparagine residues at the end of a protein cyclize. The finding, published in Nature, identifies the endogenous degron that thalidomide mimics, and reframes CRBN as a quality-control system that clears damaged proteins.
+
+Paper: Ichikawa, S. et al. "The E3 ligase adapter cereblon targets the C-terminal cyclic imide degron." Nature (2022). DOI: 10.1038/s41586-022-05333-5]]></description>
+      <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP2-0.8X.mp3" length="2043821" type="audio/mpeg" />
+      <guid>https://daichuan-cqu.github.io/litshare-podcast/EP2-0.8X.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 18:45:00 +0800</pubDate>
+      <itunes:duration>8:31</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>EP1 | Nature | Christina M. Woo: CRBN's Hidden Pocket: A Volume Knob for Protein Degradation</title>
+      <description><![CDATA[Every drug that works through cereblon (CRBN) binds to the same pocket, the thalidomide-binding domain. A team from Harvard University, Scripps Research, and GSK now reports a second, hidden pocket on CRBN. A small molecule that binds this allosteric site, SB-405483, makes orthosteric drugs bind ten times more tightly and tunes their degradation outcomes up or down depending on the target. The finding, published in Nature, is the first cooperative allosteric ligand described for an E3 ubiquitin ligase.
+
+Paper: Dippon, V. N. et al. "Identification of an allosteric site on the E3 ligase adapter cereblon." Nature (2026). DOI: 10.1038/s41586-025-09994-w]]></description>
+      <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP1-0.8X.mp3" length="2373581" type="audio/mpeg" />
+      <guid>https://daichuan-cqu.github.io/litshare-podcast/EP1-0.8X.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 16:12:00 +0800</pubDate>
+      <itunes:duration>9:53</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
