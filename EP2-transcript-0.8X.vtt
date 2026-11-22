@@ -1,0 +1,554 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.650
+David: Welcome to LitShare.
+
+2
+00:00:02.225 --> 00:00:04.850
+This is Protein Degradation English
+Corner.
+
+3
+00:00:04.913 --> 00:00:06.162
+Episode two.
+
+4
+00:00:06.725 --> 00:00:08.825
+Nature, Christina M. Woo.
+
+5
+00:00:10.225 --> 00:00:12.525
+The Degron Thalidomide Was Copying.
+
+6
+00:00:13.550 --> 00:00:14.575
+Here is the question.
+
+7
+00:00:16.350 --> 00:00:20.625
+Thalidomide binds cereblon and changes
+which proteins get destroyed.
+
+8
+00:00:21.575 --> 00:00:24.025
+But cereblon existed long before
+thalidomide.
+
+9
+00:00:25.725 --> 00:00:27.950
+So what does it recognize on its own?
+
+10
+00:00:28.900 --> 00:00:31.800
+What natural tag was thalidomide copying?
+
+11
+00:00:32.750 --> 00:00:37.575
+Alex: That is the question Christina Woo's
+team at Harvard set out to answer.
+
+12
+00:00:38.150 --> 00:00:39.325
+Their paper is in Nature, 2022.
+
+13
+00:00:41.975 --> 00:00:44.975
+First authors Saki Ichikawa, Hope Flaxman,
+and Wenqing Xu.
+
+14
+00:00:47.325 --> 00:00:55.175
+And the answer is a small chemical tag
+that forms on proteins as they age: a
+C-terminal cyclic imide.
+
+15
+00:00:56.075 --> 00:00:59.050
+David: Before we get there, what is a
+degron?
+
+16
+00:00:59.600 --> 00:01:04.650
+Alex: A degron is a short signal on a
+protein that marks it for destruction.
+
+17
+00:01:05.650 --> 00:01:12.950
+An E3 ligase reads the signal, attaches
+ubiquitin, and the proteasome destroys the
+protein.
+
+18
+00:01:14.000 --> 00:01:17.425
+Cereblon is the part of the ligase that
+reads the signal.
+
+19
+00:01:19.150 --> 00:01:20.175
+Thalidomide hijacks it.
+
+20
+00:01:20.525 --> 00:01:23.475
+David: And nobody knew what cereblon reads
+naturally?
+
+21
+00:01:24.225 --> 00:01:24.600
+Alex: Right.
+
+22
+00:01:24.975 --> 00:01:25.875
+People had guesses.
+
+23
+00:01:27.350 --> 00:01:30.075
+Thalidomide binds cereblon through its
+glutarimide ring.
+
+24
+00:01:30.525 --> 00:01:33.100
+So the natural signal might look like that
+ring.
+
+25
+00:01:33.850 --> 00:01:43.500
+The team guessed it could be a
+modification that forms when a glutamine
+or asparagine at the end of a protein
+curls up and closes into a ring: a cyclic
+imide.
+
+26
+00:01:44.400 --> 00:01:46.400
+David: How do you test a guess like that?
+
+27
+00:01:46.975 --> 00:01:47.850
+Alex: With a clever trick.
+
+28
+00:01:48.400 --> 00:01:48.825
+They built degraders.
+
+29
+00:01:50.250 --> 00:02:00.025
+Take JQ1, a molecule that binds the
+protein BRD4, and attach a dipeptide
+ending in a cyclic imide instead of
+thalidomide.
+
+30
+00:02:01.350 --> 00:02:06.275
+If the cyclic imide engages cereblon, BRD4
+gets degraded.
+
+31
+00:02:06.750 --> 00:02:09.300
+The degradation itself is the readout.
+
+32
+00:02:10.175 --> 00:02:11.500
+David: And did it work?
+
+33
+00:02:11.500 --> 00:02:17.550
+Alex: First they tried other candidates:
+uridine-based molecules, pyroglutamate.
+
+34
+00:02:18.150 --> 00:02:18.900
+Nothing worked.
+
+35
+00:02:19.425 --> 00:02:21.750
+Then they tested fifteen more candidates.
+
+36
+00:02:22.550 --> 00:02:28.750
+The winners were dipeptides ending in a
+glutarimide, the ring from cyclized
+glutamine.
+
+37
+00:02:29.900 --> 00:02:35.500
+BRD4 was degraded in a dose-dependent way,
+from one nanomolar up.
+
+38
+00:02:36.000 --> 00:02:37.425
+David: What about the details?
+
+39
+00:02:38.300 --> 00:02:40.675
+Which amino acid sits next to the ring?
+
+40
+00:02:41.350 --> 00:02:44.700
+Alex: They tested all twenty amino acids
+at that position.
+
+41
+00:02:45.350 --> 00:02:48.950
+Almost all of them worked, except
+aspartate and glutamate.
+
+42
+00:02:50.525 --> 00:02:52.625
+Non-polar and aromatic side chains worked
+best.
+
+43
+00:02:53.200 --> 00:02:58.050
+They picked phenylalanine-glutamine, FcQ,
+for the rest of the study.
+
+44
+00:02:58.450 --> 00:03:01.200
+David: How do we know it really goes
+through cereblon?
+
+45
+00:03:02.000 --> 00:03:02.550
+Alex: Three checks.
+
+46
+00:03:03.175 --> 00:03:05.650
+Knocking down cereblon blocked the
+degradation.
+
+47
+00:03:06.450 --> 00:03:11.650
+Changing the stereochemistry at any of the
+three chiral centers killed the degrader.
+
+48
+00:03:12.250 --> 00:03:14.475
+And lenalidomide competed with it.
+
+49
+00:03:16.050 --> 00:03:17.600
+All three point to the same binding site.
+
+50
+00:03:18.075 --> 00:03:20.525
+David: What about the asparagine version,
+the aspartimide?
+
+51
+00:03:21.825 --> 00:03:22.875
+Alex: That worked too.
+
+52
+00:03:23.525 --> 00:03:29.925
+JQ1-FcN degraded BRD4, also through
+cereblon, within two hours.
+
+53
+00:03:30.550 --> 00:03:35.100
+So both the five-membered and six-membered
+rings count as degrons.
+
+54
+00:03:35.575 --> 00:03:39.550
+David: Did they show the molecules
+actually bind cereblon directly?
+
+55
+00:03:40.300 --> 00:03:40.675
+Alex: Yes.
+
+56
+00:03:41.200 --> 00:03:48.775
+In a photoaffinity assay, the dipeptides
+displaced a light-activated lenalidomide
+probe from cereblon.
+
+57
+00:03:49.275 --> 00:03:58.550
+And in AlphaScreen and NanoBRET assays,
+the degraders brought BRD4 and cereblon
+together into a ternary complex.
+
+58
+00:03:59.575 --> 00:04:00.625
+David: Here is the interesting part.
+
+59
+00:04:01.875 --> 00:04:04.725
+Thalidomide makes cereblon grab new
+proteins, like IKZF1.
+
+60
+00:04:07.325 --> 00:04:09.475
+Do these dipeptides do the same?
+
+61
+00:04:11.200 --> 00:04:12.300
+Alex: No, and that is a key difference.
+
+62
+00:04:13.175 --> 00:04:16.425
+The dipeptides did not recruit any new
+substrates.
+
+63
+00:04:17.200 --> 00:04:24.575
+In myeloma cells, pomalidomide degraded
+IKZF1, but the dipeptides degraded
+nothing.
+
+64
+00:04:25.375 --> 00:04:32.400
+And the myeloma cells were sensitive to
+lenalidomide, while the dipeptides had no
+effect even at high doses.
+
+65
+00:04:33.075 --> 00:04:37.700
+David: So the natural tag engages cereblon
+without the drug's side effects.
+
+66
+00:04:38.250 --> 00:04:38.775
+Alex: Exactly.
+
+67
+00:04:39.575 --> 00:04:44.750
+It binds the same pocket but does not
+reshape cereblon the way thalidomide does.
+
+68
+00:04:45.600 --> 00:04:48.600
+David: But a degrader is a synthetic
+molecule.
+
+69
+00:04:49.475 --> 00:04:51.925
+Does the tag work on a real protein?
+
+70
+00:04:52.725 --> 00:04:54.425
+Alex: That is the next experiment.
+
+71
+00:04:54.850 --> 00:05:00.725
+They used sortase, an enzyme, to attach
+the cyclic imide to the end of GFP.
+
+72
+00:05:01.475 --> 00:05:03.175
+Then they watched what happened.
+
+73
+00:05:03.750 --> 00:05:09.775
+In a test tube, the CRBN ligase complex
+ubiquitinated the tagged GFP.
+
+74
+00:05:10.425 --> 00:05:14.625
+The untagged version, with a normal
+glutamine, was untouched.
+
+75
+00:05:15.250 --> 00:05:16.650
+The ring is required.
+
+76
+00:05:17.100 --> 00:05:18.725
+David: And inside cells?
+
+77
+00:05:19.300 --> 00:05:23.250
+Alex: They delivered the tagged GFP into
+human cells.
+
+78
+00:05:24.625 --> 00:05:28.325
+After six hours, the tagged GFP had
+dropped sharply.
+
+79
+00:05:29.400 --> 00:05:34.000
+Knocking out cereblon, or adding
+lenalidomide, rescued it.
+
+80
+00:05:34.425 --> 00:05:43.250
+And the tag was transferable: it worked on
+other proteins too, and it could replace
+thalidomide in other degraders.
+
+81
+00:05:43.525 --> 00:05:44.900
+David: So the tag is real.
+
+82
+00:05:45.600 --> 00:05:48.050
+But does it actually occur in the human
+body?
+
+83
+00:05:49.600 --> 00:05:51.375
+Alex: Yes, and this is where the story
+gets big.
+
+84
+00:05:52.125 --> 00:05:58.025
+Cyclic imides form spontaneously when
+asparagine or glutamine residues age.
+
+85
+00:05:58.625 --> 00:06:06.050
+The team searched proteomics data from
+human tissues and found more than a
+thousand modification sites, on several
+hundred proteins.
+
+86
+00:06:08.175 --> 00:06:14.000
+The half-life is seventeen to twenty-five
+hours, long enough for cereblon to find
+them.
+
+87
+00:06:14.350 --> 00:06:15.925
+David: Where did they find the most?
+
+88
+00:06:15.925 --> 00:06:19.125
+Alex: In haemoglobin, the protein in red
+blood cells.
+
+89
+00:06:19.475 --> 00:06:25.200
+Red blood cells live about a hundred and
+twenty days, and they do not express
+cereblon.
+
+90
+00:06:25.725 --> 00:06:27.525
+So the tags accumulate there.
+
+91
+00:06:28.125 --> 00:06:37.375
+The team confirmed the modifications in
+blood samples from healthy donors, and in
+aged bovine eye lenses, where twenty-two
+sites turned up.
+
+92
+00:06:37.725 --> 00:06:41.025
+David: That suggests cereblon is a cleanup
+system.
+
+93
+00:06:41.675 --> 00:06:42.625
+Alex: That is the model.
+
+94
+00:06:43.075 --> 00:06:44.375
+They tested it directly.
+
+95
+00:06:45.075 --> 00:06:51.200
+They made a haemoglobin chain carrying the
+tag and showed the CRBN complex
+ubiquitinates it.
+
+96
+00:06:51.800 --> 00:07:00.150
+Then they blocked cereblon in cells,
+either by knocking it out or with
+lenalidomide, and the cyclic imide
+fragments piled up.
+
+97
+00:07:02.875 --> 00:07:05.775
+In one experiment, thirty-four out of
+thirty-six tagged peptides increased.
+
+98
+00:07:06.150 --> 00:07:07.625
+David: How big was the increase?
+
+99
+00:07:09.150 --> 00:07:20.975
+Alex: For one well-measured site on actin,
+the tag rose by about a quarter to a third
+in kidney cells, and by about three-
+quarters in myeloma cells, after two days
+of lenalidomide.
+
+100
+00:07:22.175 --> 00:07:24.175
+David: What does this mean for the field?
+
+101
+00:07:24.175 --> 00:07:26.375
+Alex: It reframes cereblon.
+
+102
+00:07:27.075 --> 00:07:28.925
+It may not just be a drug target.
+
+103
+00:07:29.475 --> 00:07:35.050
+It may be a quality-control system that
+removes damaged proteins before they pile
+up.
+
+104
+00:07:35.850 --> 00:07:43.425
+That fits with the observation that loss
+of cereblon's thalidomide-binding domain
+is linked to intellectual disability.
+
+105
+00:07:44.175 --> 00:07:46.250
+The damage matters most in the brain.
+
+106
+00:07:46.312 --> 00:07:48.062
+David: What is still missing?
+
+107
+00:07:48.725 --> 00:07:49.375
+Alex: Three things.
+
+108
+00:07:50.000 --> 00:07:53.850
+First, everything here is in cells and in
+test tubes.
+
+109
+00:07:54.450 --> 00:07:56.225
+There is no animal data yet.
+
+110
+00:07:56.900 --> 00:08:02.900
+Second, we do not know how the hydrolysed
+fragments are cleared if cereblon misses
+them.
+
+111
+00:08:03.650 --> 00:08:10.975
+And third, we do not know whether the tags
+form purely by chance, or whether enzymes
+help make them.
+
+112
+00:08:11.700 --> 00:08:22.600
+David: One sentence to remember:
+thalidomide was copying a natural cleanup
+tag, a cyclic imide that marks ageing
+proteins for destruction by cereblon.
+
+113
+00:08:23.375 --> 00:08:28.475
+You have been listening to Protein
+Degradation English Corner, from Litshare.
+
+114
+00:08:29.225 --> 00:08:30.250
+See you next time.

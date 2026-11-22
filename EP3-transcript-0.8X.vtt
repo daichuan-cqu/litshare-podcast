@@ -1,0 +1,610 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.850
+David: Welcome to LitShare.
+
+2
+00:00:02.400 --> 00:00:05.225
+This is Protein Degradation English
+Corner.
+
+3
+00:00:05.288 --> 00:00:06.538
+Episode three.
+
+4
+00:00:07.325 --> 00:00:10.775
+Cell Chemical Biology, Christina M. Woo.
+
+5
+00:00:11.800 --> 00:00:15.100
+The Degron, Rebuilt as a Warhead.
+
+6
+00:00:16.100 --> 00:00:17.225
+Here is the question.
+
+7
+00:00:18.275 --> 00:00:25.975
+Last time, we learned that cereblon reads
+a natural tag: a cyclic imide that forms
+on ageing proteins.
+
+8
+00:00:26.950 --> 00:00:32.125
+Now the question is, can you take that tag
+and rebuild it as a drug?
+
+9
+00:00:33.025 --> 00:00:35.575
+Can a degron become a warhead?
+
+10
+00:00:36.475 --> 00:00:40.000
+Alex: That is what Christina Woo's team at
+Harvard set out to do.
+
+11
+00:00:40.475 --> 00:00:42.325
+Their paper is in Cell Chemical Biology,
+2024.
+
+12
+00:00:45.025 --> 00:00:48.425
+First authors Saki Ichikawa and Connor
+Payne.
+
+13
+00:00:49.000 --> 00:00:52.100
+They built a new class of cereblon ligands
+called the cyclimids.
+
+14
+00:00:53.150 --> 00:00:54.950
+And they tested sixty of them.
+
+15
+00:00:55.525 --> 00:00:56.650
+David: Start with the name.
+
+16
+00:00:57.675 --> 00:00:58.250
+What is a cyclimid?
+
+17
+00:00:59.700 --> 00:01:05.150
+Alex: A cyclimid is a short dipeptide that
+ends in a cyclic imide ring.
+
+18
+00:01:05.925 --> 00:01:13.975
+Take the natural degron, attach it to a
+molecule that binds your target protein,
+and you have a bifunctional degrader.
+
+19
+00:01:14.425 --> 00:01:20.600
+A PROTAC, a proteolysis targeting chimera,
+with a degron for a warhead.
+
+20
+00:01:21.000 --> 00:01:22.450
+David: And they built a library?
+
+21
+00:01:23.300 --> 00:01:23.625
+Alex: Yes.
+
+22
+00:01:24.125 --> 00:01:29.650
+Forty degraders against BRD4, a protein
+that reads acetylated histones.
+
+23
+00:01:30.375 --> 00:01:34.025
+Twenty with a six-membered ring, called
+cQ, from glutamine.
+
+24
+00:01:34.700 --> 00:01:38.050
+Twenty with a five-membered ring, called
+cN, from asparagine.
+
+25
+00:01:38.700 --> 00:01:43.200
+At the position next to the ring, they
+installed all twenty amino acids, one by
+one.
+
+26
+00:01:45.500 --> 00:01:49.500
+Same linker throughout, so the only
+variable is the warhead.
+
+27
+00:01:49.800 --> 00:01:51.350
+David: What did they measure first?
+
+28
+00:01:52.225 --> 00:01:52.825
+Alex: Binding to cereblon.
+
+29
+00:01:54.200 --> 00:02:03.150
+They used TR-FRET, time-resolved
+fluorescence energy transfer, a
+competition assay with a fluorescent
+thalidomide tracer.
+
+30
+00:02:04.825 --> 00:02:11.275
+All forty degraders bound cereblon, with
+dissociation constants, KDs, from eight
+nanomolar to one micromolar.
+
+31
+00:02:13.525 --> 00:02:14.575
+David: And the surprise?
+
+32
+00:02:15.750 --> 00:02:16.500
+Alex: The five-membered ring won.
+
+33
+00:02:17.550 --> 00:02:23.275
+The cN degraders generally bound cereblon
+more tightly than their cQ counterparts.
+
+34
+00:02:24.050 --> 00:02:26.525
+That is the opposite of thalidomide.
+
+35
+00:02:28.100 --> 00:02:32.275
+In thalidomide derivatives, shrinking the
+ring to five members kills binding.
+
+36
+00:02:34.350 --> 00:02:39.025
+Pomalidomide binds about five hundred
+times more tightly than its five-membered
+analog.
+
+37
+00:02:39.625 --> 00:02:42.175
+David: Did that difference show up in
+cells?
+
+38
+00:02:43.100 --> 00:02:43.900
+Alex: Dramatically.
+
+39
+00:02:44.675 --> 00:02:51.800
+JQ1-FcN, the five-membered degrader,
+cleared BRD4 at one hundred nanomolar.
+
+40
+00:02:52.525 --> 00:03:00.875
+But dBET6-cN, the same five-membered ring
+in a thalidomide scaffold, did nothing,
+even at ten micromolar.
+
+41
+00:03:03.100 --> 00:03:06.425
+Same ring, different scaffold, opposite
+result.
+
+42
+00:03:07.375 --> 00:03:08.925
+David: So binding is one thing.
+
+43
+00:03:09.625 --> 00:03:15.350
+What about the ternary complex, the three-
+way assembly of degrader, target, and
+ligase?
+
+44
+00:03:15.350 --> 00:03:17.700
+Alex: That is the heart of the paper.
+
+45
+00:03:18.175 --> 00:03:23.425
+They built a quantitative TR-FRET assay to
+measure the ternary complex directly.
+
+46
+00:04:59.700 --> 00:05:09.900
+They saturated the target, BRD4's
+bromodomain, and measured how tightly the
+degrader-target pair binds cereblon.
+
+47
+00:05:10.625 --> 00:05:12.375
+That gives a ternary KD.
+
+48
+00:06:46.775 --> 00:06:55.725
+And they calculated a cooperativity
+factor, Alpha: the binary KD divided by
+the ternary KD.
+
+49
+00:06:56.500 --> 00:07:03.750
+Positive cooperativity means the two
+proteins like each other once the degrader
+brings them together.
+
+50
+00:07:04.475 --> 00:07:07.750
+David: And the amino acid next to the ring
+changed that?
+
+51
+00:07:08.500 --> 00:07:09.200
+Alex: Completely.
+
+52
+00:07:09.775 --> 00:07:18.800
+Same linker, same target, same ring, but
+swapping one amino acid changed the
+cooperativity eighty-fold between two
+degraders.
+
+53
+00:07:19.050 --> 00:07:23.600
+And the degraders showed a preference for
+one bromodomain over the other.
+
+54
+00:07:27.800 --> 00:07:33.725
+JQ1-YcQ was fifty-seven-fold selective for
+forming a ternary complex with BD1 over
+BD2.
+
+55
+00:07:34.175 --> 00:07:35.650
+David: Why does that matter?
+
+56
+00:07:36.275 --> 00:07:44.050
+Alex: Because BRD4 has two bromodomains,
+BD1 and BD2, and most degraders hit both.
+
+57
+00:07:44.050 --> 00:07:52.500
+If the warhead alone can pick one domain
+over the other, you get selectivity
+without redesigning the whole molecule.
+
+58
+00:07:53.200 --> 00:07:57.925
+David: The big claim is that the ternary
+complex measurement predicts degradation.
+
+59
+00:07:58.800 --> 00:08:00.150
+How strong is the evidence?
+
+60
+00:08:01.100 --> 00:08:01.850
+Alex: Very strong.
+
+61
+00:08:02.400 --> 00:08:12.025
+They measured degradation of endogenous
+BRD4 in cells for twenty degraders, and
+plotted it against the ternary KD.
+
+62
+00:08:12.675 --> 00:08:18.025
+The correlation coefficient was zero point
+eight two, with a p-value below zero point
+zero zero zero one.
+
+63
+00:08:21.650 --> 00:08:30.675
+The degraders spanned a five-hundred-fold
+range of DC50 values, the concentration
+for half-maximal degradation.
+
+64
+00:08:31.250 --> 00:08:34.125
+And the ternary KD predicted it.
+
+65
+00:08:34.450 --> 00:08:37.525
+David: What about the domain selectivity?
+
+66
+00:08:38.125 --> 00:08:39.325
+Did it hold up in cells?
+
+67
+00:08:40.500 --> 00:08:41.050
+Alex: Yes.
+
+68
+00:08:41.800 --> 00:08:57.375
+In reporter cells, JQ1-YcQ degraded BD1
+with a DC50 of about one hundred
+nanomolar, and BD2 at about five hundred
+nanomolar, roughly a five-fold difference.
+
+69
+00:08:57.875 --> 00:09:09.050
+The non-selective pair, JQ1-AcQ and
+JQ1-AcN, hit both domains equally, just as
+the biochemistry predicted.
+
+70
+00:09:09.550 --> 00:09:13.250
+David: They also looked at kinetics, how
+long the complex lasts.
+
+71
+00:09:14.250 --> 00:09:14.525
+Alex: Right.
+
+72
+00:09:15.200 --> 00:09:23.450
+The BD1 ternary complexes lasted from
+under thirty seconds to two hundred
+seventy seconds, depending on the
+degrader.
+
+73
+00:10:49.950 --> 00:10:59.450
+The most cooperative ones, JQ1-YcQ and
+JQ1-YcN, lasted longest.
+
+74
+00:11:00.425 --> 00:11:04.900
+The BD2 complexes all fell apart within
+thirty seconds.
+
+75
+00:11:04.900 --> 00:11:17.425
+And in cells, JQ1-YcQ reached maximum
+degradation in one and a half hours for
+BD1, but three hours for BD2.
+
+76
+00:11:18.750 --> 00:11:24.000
+How long the complex holds together
+matters, not just how tightly it forms.
+
+77
+00:11:24.700 --> 00:11:27.075
+David: So far it is all BRD4.
+
+78
+00:11:27.725 --> 00:11:29.800
+Does the platform work on other targets?
+
+79
+00:11:30.525 --> 00:11:31.800
+Alex: That is the next test.
+
+80
+00:11:32.425 --> 00:11:40.100
+They built ten degraders for FKBP12, and
+ten for the kinases CDK4 and CDK6.
+
+81
+00:11:40.100 --> 00:11:43.300
+Same warhead screen, different target
+binder.
+
+82
+00:11:43.875 --> 00:11:51.125
+For FKBP12, the ternary KD again predicted
+degradation, with a correlation of zero
+point eight one.
+
+83
+00:11:53.500 --> 00:11:55.975
+And the degraders spared two close
+relatives, FKBP fifty-one and FKBP fifty-
+two.
+
+84
+00:12:00.950 --> 00:12:03.950
+David: And what about the CDK degraders?
+
+85
+00:12:05.200 --> 00:12:11.300
+Alex: All ten wiped out CDK6 at one
+hundred nanomolar, and several worked at
+ten nanomolar.
+
+86
+00:12:12.200 --> 00:12:15.475
+But one stood out: dCDK-PcQ.
+
+87
+00:12:15.825 --> 00:12:29.725
+It degraded CDK6 with a DC50 of two to
+nine nanomolar, but barely touched CDK4,
+with a DC50 of eighty-nine nanomolar and a
+maximum degradation of only twenty-five
+percent.
+
+88
+00:12:31.350 --> 00:12:36.700
+A CDK6-selective degrader, from a single
+amino acid choice.
+
+89
+00:12:37.150 --> 00:12:39.975
+David: There was also something about the
+hook effect.
+
+90
+00:12:39.975 --> 00:12:41.025
+Alex: Yes.
+
+91
+00:12:41.475 --> 00:12:56.350
+At high doses, ten micromolar, the six-
+membered degraders and the pomalidomide
+control showed the hook effect:
+degradation drops because the degrader
+saturates each protein separately instead
+of bridging them.
+
+92
+00:12:57.625 --> 00:13:00.425
+The five-membered cN degraders did not
+show it.
+
+93
+00:13:00.950 --> 00:13:03.725
+Another reason to screen both ring sizes.
+
+94
+00:13:05.175 --> 00:13:10.675
+David: Thalidomide warheads have a known
+problem: they drag in unwanted proteins,
+the neosubstrates.
+
+95
+00:13:12.975 --> 00:13:13.575
+Do the cyclimids?
+
+96
+00:13:15.350 --> 00:13:16.925
+Alex: Almost not at all.
+
+97
+00:13:17.475 --> 00:13:29.850
+They tested the classic thalidomide off-
+targets, the zinc-finger proteins IKZF3
+and ZFP91, and the translation factor
+GSPT1.
+
+98
+00:13:30.950 --> 00:13:35.675
+The thalidomide-based degrader ARV-825
+wiped them out.
+
+99
+00:13:36.325 --> 00:13:42.000
+The cyclimids barely moved them, with
+maximum degradation of three percent or
+less.
+
+100
+00:13:42.000 --> 00:13:50.850
+Global proteomics confirmed it: dCDK-PcQ
+depleted CDK6 alone.
+
+101
+00:13:51.250 --> 00:13:53.200
+David: What about drug-like properties?
+
+102
+00:13:54.175 --> 00:13:55.400
+These are peptides.
+
+103
+00:13:56.850 --> 00:14:05.225
+Alex: The cyclimid degraders had similar
+metabolic stability and cell permeability
+to the thalidomide-based dBET6.
+
+104
+00:14:05.625 --> 00:14:09.950
+And the standalone cyclimids were more
+stable than thalidomide derivatives.
+
+105
+00:14:10.575 --> 00:14:17.175
+They also reduce two classic thalidomide
+problems: the stereocenter that flips, and
+the ring that hydrolyses.
+
+106
+00:14:17.975 --> 00:14:22.075
+David: What is the big idea here, beyond
+this one paper?
+
+107
+00:14:23.200 --> 00:14:25.025
+Alex: A new screening concept.
+
+108
+00:14:25.625 --> 00:14:31.600
+Degrader discovery usually optimizes the
+linker, a strategy called linkerology.
+
+109
+00:14:32.125 --> 00:14:35.500
+This paper says: screen the warhead
+instead.
+
+110
+00:14:37.150 --> 00:14:41.900
+Swap one amino acid, and you sample a
+whole new set of ternary complexes.
+
+111
+00:14:42.725 --> 00:14:48.475
+It is orthogonal, and it is fast, because
+the cyclimids are easy to make.
+
+112
+00:14:49.000 --> 00:14:50.125
+David: What is still missing?
+
+113
+00:14:50.125 --> 00:14:51.500
+Alex: Three things.
+
+114
+00:14:52.100 --> 00:14:55.600
+First, everything here is biochemical and
+cellular.
+
+115
+00:14:56.350 --> 00:14:57.950
+There is no animal data yet.
+
+116
+00:14:58.750 --> 00:15:03.750
+Second, the cyclimids are peptidic, so
+their drug properties still need work.
+
+117
+00:15:04.650 --> 00:15:10.100
+The authors suggest non-peptidic versions
+and noncanonical amino acids next.
+
+118
+00:15:11.025 --> 00:15:18.325
+And third, we still do not know exactly
+when and where the natural cyclic imide
+tags form in the body.
+
+119
+00:15:18.325 --> 00:15:24.775
+David: One sentence to remember: the
+degron is not just a tag cereblon reads.
+
+120
+00:15:25.625 --> 00:15:36.400
+Rebuilt as a warhead, it gives you a
+tunable handle on the ternary complex, and
+the strength of that complex predicts how
+well the degrader works.
+
+121
+00:15:37.475 --> 00:15:42.725
+You have been listening to Protein
+Degradation English Corner, from Litshare.
+
+122
+00:15:43.350 --> 00:15:44.300
+See you next time.

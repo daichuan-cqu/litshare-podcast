@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://github.com/Podcasting-2.0/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
     <title>Litshare</title>
     <link>https://daichuan-cqu.github.io/litshare-podcast/</link>
@@ -7,17 +7,36 @@
     <language>en</language>
     <description><![CDATA[Protein Degradation English Corner — a dual-dialogue English podcast on targeted protein degradation: PROTACs, molecular glues, and E3 ligases. Hosted by David and Alex. Each episode unpacks one paper in plain spoken English. Episodes are presented at 0.8x speed, for English learners following along with the transcript. From Litshare.]]></description>
     <itunes:author>Litshare</itunes:author>
+    <itunes:owner>
+      <itunes:name>Litshare</itunes:name>
+      <itunes:email>daichuancqu@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:summary><![CDATA[Protein Degradation English Corner — a dual-dialogue English podcast on targeted protein degradation: PROTACs, molecular glues, and E3 ligases. Hosted by David and Alex. Each episode unpacks one paper in plain spoken English. Episodes are presented at 0.8x speed, for English learners following along with the transcript. From Litshare.]]></itunes:summary>
     <itunes:category text="Science" />
     <itunes:image href="https://daichuan-cqu.github.io/litshare-podcast/cover.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EP3 | Cell Chemical Biology | Christina M. Woo: The Degron, Rebuilt as a Warhead</title>
+      <description><![CDATA[In 2022, Christina Woo's group at Harvard showed that cereblon (CRBN) naturally reads a small chemical tag: a C-terminal cyclic imide that forms when glutamine or asparagine residues age. In this follow-up study, the team asks the obvious next question. If the tag is the natural ligand, can you rebuild it as a drug warhead? The answer is the cyclimids, a class of degron-inspired CRBN binders that turn out to be tunable, predictable, and remarkably clean. Built as short dipeptides ending in a cyclic imide ring, forty BRD4 degraders showed the five-membered ring binds CRBN more tightly than the six-membered one, and a quantitative TR-FRET platform measuring the ternary complex directly predicted degradation in cells.
+
+Paper: Ichikawa, S. et al. "The cyclimids: Degron-inspired cereblon binders for targeted protein degradation." Cell Chemical Biology (2024). DOI: 10.1016/j.chembiol.2024.01.003]]></description>
+      <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP3-0.8X.mp3" length="3780365" type="audio/mpeg" />
+      <podcast:transcript url="https://daichuan-cqu.github.io/litshare-podcast/EP3-transcript-0.8X.vtt" type="text/vtt" />
+      <guid>https://daichuan-cqu.github.io/litshare-podcast/EP3-0.8X.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 19:58:00 +0800</pubDate>
+      <itunes:duration>15:45</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>EP2 | Nature | Christina M. Woo: The Degron Thalidomide Was Copying</title>
       <description><![CDATA[Thalidomide and lenalidomide work by binding cereblon (CRBN), the substrate adapter of the CRL4 E3 ubiquitin ligase, and redirecting it to destroy new proteins. But CRBN is an ancient, conserved protein that predates these drugs by hundreds of millions of years. What does it recognize on its own? A team from Harvard University and the University of Southern California, led by Christina M. Woo, reports that the natural signal is a C-terminal cyclic imide — a chemical tag that forms spontaneously when glutamine or asparagine residues at the end of a protein cyclize. The finding, published in Nature, identifies the endogenous degron that thalidomide mimics, and reframes CRBN as a quality-control system that clears damaged proteins.
 
 Paper: Ichikawa, S. et al. "The E3 ligase adapter cereblon targets the C-terminal cyclic imide degron." Nature (2022). DOI: 10.1038/s41586-022-05333-5]]></description>
       <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP2-0.8X.mp3" length="2043821" type="audio/mpeg" />
+      <podcast:transcript url="https://daichuan-cqu.github.io/litshare-podcast/EP2-transcript-0.8X.vtt" type="text/vtt" />
       <guid>https://daichuan-cqu.github.io/litshare-podcast/EP2-0.8X.mp3</guid>
       <pubDate>Sat, 21 Nov 2026 18:45:00 +0800</pubDate>
       <itunes:duration>8:31</itunes:duration>
@@ -31,6 +50,7 @@ Paper: Ichikawa, S. et al. "The E3 ligase adapter cereblon targets the C-termina
 
 Paper: Dippon, V. N. et al. "Identification of an allosteric site on the E3 ligase adapter cereblon." Nature (2026). DOI: 10.1038/s41586-025-09994-w]]></description>
       <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP1-0.8X.mp3" length="2373581" type="audio/mpeg" />
+      <podcast:transcript url="https://daichuan-cqu.github.io/litshare-podcast/EP1-transcript-0.8X.vtt" type="text/vtt" />
       <guid>https://daichuan-cqu.github.io/litshare-podcast/EP1-0.8X.mp3</guid>
       <pubDate>Sat, 21 Nov 2026 16:12:00 +0800</pubDate>
       <itunes:duration>9:53</itunes:duration>

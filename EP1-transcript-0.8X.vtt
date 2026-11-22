@@ -1,0 +1,570 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.125
+David: Welcome to LitShare.
+
+2
+00:00:02.825 --> 00:00:05.475
+This is Protein Degradation English
+Corner.
+
+3
+00:00:05.538 --> 00:00:06.788
+Episode one.
+
+4
+00:00:07.825 --> 00:00:09.550
+Nature, Christina M. Woo.
+
+5
+00:00:12.100 --> 00:00:15.775
+C R B N's Hidden Pocket: A Volume Knob for
+Protein Degradation.
+
+6
+00:00:16.775 --> 00:00:18.025
+Here is the question.
+
+7
+00:00:19.125 --> 00:00:23.150
+Every drug that works through cereblon
+binds to the same pocket.
+
+8
+00:00:23.825 --> 00:00:29.500
+Is there a second pocket on this protein,
+one that could tune those drugs up or
+down?
+
+9
+00:00:30.375 --> 00:00:36.650
+Alex: That is the question a team from
+Harvard, Scripps, and G S K set out to
+answer.
+
+10
+00:00:37.175 --> 00:00:38.425
+Their paper is in Nature, twenty twenty-
+six.
+
+11
+00:00:40.950 --> 00:00:47.500
+First author Vanessa Dippon, and the
+corresponding authors are Christina Woo
+and Andrew Benowitz.
+
+12
+00:00:48.000 --> 00:00:52.825
+David: Before we get to the answer, what
+does cereblon actually do?
+
+13
+00:00:53.850 --> 00:01:01.300
+Alex: Cereblon, or C R B N, is a substrate
+adapter for an E three ubiquitin ligase.
+
+14
+00:01:02.100 --> 00:01:04.300
+In plain words, it is a matchmaker.
+
+15
+00:01:05.000 --> 00:01:12.600
+Drugs like thalidomide and lenalidomide
+bind to cereblon at a site called the
+thalidomide binding domain.
+
+16
+00:01:13.450 --> 00:01:21.050
+Then cereblon grabs a new protein, a
+neosubstrate, and tags it for destruction
+by the proteasome.
+
+17
+00:01:21.050 --> 00:01:25.850
+David: And that is how lenalidomide treats
+multiple myeloma.
+
+18
+00:01:26.525 --> 00:01:26.875
+Alex: Exactly.
+
+19
+00:01:27.600 --> 00:01:36.225
+It makes cereblon degrade the Ikaros
+proteins, I K Z F one and I K Z F three,
+and also C K one alpha.
+
+20
+00:01:37.050 --> 00:01:42.100
+That is why it works in myeloma and in del
+five q M D S, a blood disorder.
+
+21
+00:01:42.900 --> 00:01:49.600
+But the same mechanism also degrades a
+protein called S A L L four, which is
+linked to birth defects.
+
+22
+00:01:50.375 --> 00:01:54.950
+So the field has spent years designing new
+molecules for that one binding site.
+
+23
+00:01:55.625 --> 00:01:56.650
+Nobody had found a second one.
+
+24
+00:01:57.225 --> 00:01:59.725
+David: So how did they find it?
+
+25
+00:02:00.150 --> 00:02:01.350
+Alex: Almost by accident.
+
+26
+00:02:01.825 --> 00:02:07.400
+The G S K team ran a high-throughput
+screen to find new molecules for the known
+site.
+
+27
+00:02:07.925 --> 00:02:14.050
+They started with a ten thousand compound
+validation set, using a light-based assay.
+
+28
+00:02:14.875 --> 00:02:18.225
+Normally, when a molecule binds, the
+signal goes down.
+
+29
+00:02:19.025 --> 00:02:21.450
+But about fifty compounds did the
+opposite.
+
+30
+00:02:22.075 --> 00:02:23.275
+The signal went up.
+
+31
+00:02:23.275 --> 00:02:28.200
+David: So instead of blocking the probe,
+something was making it bind better.
+
+32
+00:02:28.625 --> 00:02:29.675
+Alex: That was the clue.
+
+33
+00:02:30.375 --> 00:02:37.525
+They ruled out artifacts, tested the
+compounds one by one with mass
+spectrometry, and a single molecule
+survived.
+
+34
+00:02:38.325 --> 00:02:39.150
+Its name is S B four zero five four eight
+three.
+
+35
+00:02:43.150 --> 00:02:46.950
+David: How did they prove it binds
+somewhere else, and not the same site?
+
+36
+00:02:47.625 --> 00:02:48.775
+Alex: Two pieces of evidence.
+
+37
+00:02:49.375 --> 00:02:59.025
+First, mass spectrometry showed that S B
+four zero five four eight three and
+pomalidomide can sit on cereblon at the
+same time.
+
+38
+00:02:59.025 --> 00:03:02.575
+If they shared one site, that would be
+impossible.
+
+39
+00:03:03.500 --> 00:03:04.775
+Second, the numbers.
+
+40
+00:03:05.775 --> 00:03:11.250
+The allosteric constant, gamma, came out
+at ten, which means strong synergy.
+
+41
+00:03:12.250 --> 00:03:23.625
+The lenalidomide probe bound ten times
+more tightly with the new molecule
+present, and the new molecule also bound
+ten times more tightly with the probe
+present.
+
+42
+00:03:24.050 --> 00:03:26.225
+David: Ten times in both directions.
+
+43
+00:03:27.075 --> 00:03:29.200
+That is real cooperativity.
+
+44
+00:03:30.000 --> 00:03:32.525
+But where exactly is this second site?
+
+45
+00:03:32.525 --> 00:03:42.175
+Alex: They solved the crystal structure at
+two point three nine angstrom resolution,
+with both lenalidomide and the new
+molecule bound.
+
+46
+00:03:42.975 --> 00:03:56.075
+The second pocket sits at the interface
+between two domains of cereblon, the
+helical bundle domain and the thalidomide
+binding domain, about twenty-two angstroms
+away from the known site.
+
+47
+00:03:56.675 --> 00:03:59.875
+The molecule is anchored by two amino
+acids, D two six five and R two eight
+three.
+
+48
+00:04:03.800 --> 00:04:06.625
+David: The paper calls the pocket cryptic.
+
+49
+00:04:07.025 --> 00:04:08.500
+What does that mean here?
+
+50
+00:04:09.275 --> 00:04:12.500
+Alex: It means you cannot see it in the
+known structures.
+
+51
+00:04:13.200 --> 00:04:16.850
+The pocket only opens when the right
+molecule comes along.
+
+52
+00:04:17.700 --> 00:04:25.375
+A loop near the pocket is flexible, and
+one amino acid, W two six four, has to
+move out of the way.
+
+53
+00:04:25.750 --> 00:04:28.275
+And the pocket looks important in nature.
+
+54
+00:04:29.075 --> 00:04:36.100
+Two thirds of the amino acids that form it
+are identical across the top five hundred
+related sequences.
+
+55
+00:04:36.100 --> 00:04:41.575
+David: Does the molecule actually work
+inside cells, or only in a test tube?
+
+56
+00:04:42.300 --> 00:04:43.325
+Alex: It works in cells.
+
+57
+00:04:44.100 --> 00:04:45.300
+Three lines of evidence.
+
+58
+00:04:46.100 --> 00:04:50.975
+First, it stabilizes cereblon in myeloma
+cells, in a thermal shift assay.
+
+59
+00:04:52.250 --> 00:05:02.675
+Second, in a live-cell binding assay, it
+doubled the signal, and mutating D two six
+five or R two eight three wiped out the
+effect.
+
+60
+00:05:03.550 --> 00:05:06.000
+That pins the effect to the new pocket.
+
+61
+00:05:06.000 --> 00:05:11.275
+Third, it boosted the degradation of C K
+one alpha.
+
+62
+00:05:12.125 --> 00:05:25.900
+With a lenalidomide analogue called D E G
+four seven, the concentration needed for
+half-maximal degradation dropped from ten
+nanomolar to zero point seven five
+nanomolar.
+
+63
+00:05:26.275 --> 00:05:28.975
+David: That is about a thirteen-fold
+shift.
+
+64
+00:05:29.950 --> 00:05:32.100
+Did they find anything new with this tool?
+
+65
+00:05:32.825 --> 00:05:33.125
+Alex: Yes.
+
+66
+00:05:33.450 --> 00:05:36.600
+They used it as a filter in proteomics
+experiments.
+
+67
+00:05:37.250 --> 00:05:47.075
+Comparing cells treated with D E G four
+seven, with and without the new molecule,
+narrowed hundreds of changing proteins
+down to a short list of six.
+
+68
+00:05:48.550 --> 00:05:53.500
+One of them was a kinase called Wee one, a
+new cereblon neosubstrate.
+
+69
+00:05:54.000 --> 00:06:03.650
+It has the G loop motif that cereblon
+substrates share, and mutating one
+glycine, G three two two, blocked its
+degradation.
+
+70
+00:06:04.250 --> 00:06:06.325
+David: The headline result is the survey.
+
+71
+00:06:07.075 --> 00:06:09.950
+Eighty-nine ligands, six neosubstrates.
+
+72
+00:06:10.675 --> 00:06:11.700
+What did they find?
+
+73
+00:06:11.700 --> 00:06:13.325
+Alex: A clear split.
+
+74
+00:06:13.900 --> 00:06:23.025
+For C K one alpha, Wee one, and G S P T
+one, the new molecule boosted degradation
+in nearly every case.
+
+75
+00:06:23.725 --> 00:06:31.600
+One hundred percent for C K one alpha,
+ninety-six for Wee one, eighty-two for G S
+P T one.
+
+76
+00:06:31.600 --> 00:06:44.300
+But for the zinc finger proteins, I K Z F
+one and three, I K Z F two, and S A L L
+four, it mostly did the opposite.
+
+77
+00:06:45.075 --> 00:06:50.600
+Seventy-six percent of ligands showed
+reduced I K Z F two degradation.
+
+78
+00:06:51.625 --> 00:06:55.200
+In several cases it blocked degradation
+completely.
+
+79
+00:06:55.750 --> 00:06:59.125
+David: Was there any ligand that did not
+respond at all?
+
+80
+00:07:00.050 --> 00:07:00.825
+Alex: One exception.
+
+81
+00:07:02.575 --> 00:07:08.550
+Mezigdomide, a clinical-stage drug that
+grips cereblon at two domains at once,
+showed no synergy at all.
+
+82
+00:07:08.550 --> 00:07:13.075
+David: The same molecule boosts some
+proteins and blocks others.
+
+83
+00:07:13.775 --> 00:07:14.200
+How?
+
+84
+00:07:16.375 --> 00:07:17.925
+Alex: Cryo electron microscopy gave the
+answer.
+
+85
+00:07:18.725 --> 00:07:25.675
+Cereblon switches between an open shape
+and a closed shape, and the closed shape
+is the one that grabs neosubstrates.
+
+86
+00:07:26.425 --> 00:07:32.975
+The new molecule pushes cereblon toward
+the closed shape, through a new
+intermediate the authors call C R B N int.
+
+87
+00:07:35.300 --> 00:07:38.500
+It doubled the share of cereblon in the
+closed shape.
+
+88
+00:07:39.075 --> 00:07:43.225
+But it also nudges the position of the
+drug inside its own pocket.
+
+89
+00:07:43.225 --> 00:07:49.650
+C K one alpha fits even better than
+before, so its degradation goes up.
+
+90
+00:07:51.000 --> 00:07:55.050
+I K Z F one fits worse, so its degradation
+goes down.
+
+91
+00:07:55.575 --> 00:08:01.200
+David: Does it also work with P R O T A
+Cs, the two-headed degraders?
+
+92
+00:08:01.650 --> 00:08:02.075
+Alex: Yes.
+
+93
+00:08:02.500 --> 00:08:16.225
+It boosted degradation by several P R O T
+A Cs, including B R D four degraders, a C
+R B N homo P R O T A C, and F K B P twelve
+degraders.
+
+94
+00:08:16.225 --> 00:08:27.175
+In a proteomics experiment with a broad
+kinase degrader, it revealed fourteen
+strongly downregulated proteins, nine of
+them kinases.
+
+95
+00:08:27.675 --> 00:08:28.800
+David: What are the limitations?
+
+96
+00:08:29.650 --> 00:08:30.550
+What is still missing?
+
+97
+00:08:31.350 --> 00:08:31.875
+Alex: Three things.
+
+98
+00:08:32.450 --> 00:08:39.025
+First, S B four zero five four eight three
+is a tool compound, not a drug.
+
+99
+00:08:39.875 --> 00:08:43.825
+It binds weakly on its own, about twenty-
+five micromolar.
+
+100
+00:08:44.675 --> 00:08:48.375
+Second, everything here is in cells and in
+test tubes.
+
+101
+00:08:48.900 --> 00:08:50.625
+There is no animal data yet.
+
+102
+00:08:50.625 --> 00:08:55.575
+Third, we still do not know whether the
+pocket has a natural job.
+
+103
+00:08:56.325 --> 00:09:05.575
+It is conserved across species, and it
+works in mouse cells too, which hints at
+an endogenous role, but no natural ligand
+is known.
+
+104
+00:09:05.950 --> 00:09:07.000
+David: So what is the takeaway?
+
+105
+00:09:08.475 --> 00:09:10.450
+Alex: Cereblon has a hidden second pocket.
+
+106
+00:09:11.025 --> 00:09:19.350
+A molecule that binds it makes other drugs
+bind ten times better, and tunes
+degradation up or down depending on the
+target.
+
+107
+00:09:19.350 --> 00:09:25.600
+It is the first cooperative allosteric
+ligand ever found for an E three ligase.
+
+108
+00:09:26.200 --> 00:09:30.000
+And it gives drug designers a new way to
+tune selectivity.
+
+109
+00:09:30.650 --> 00:09:36.550
+For example, reducing S A L L four
+degradation could make these drugs safer.
+
+110
+00:09:37.200 --> 00:09:44.475
+David: One sentence to remember: cereblon
+has a hidden pocket, and it works like a
+volume knob for degradation.
+
+111
+00:09:45.675 --> 00:09:50.975
+You have been listening to Protein
+Degradation English Corner, from Litshare.
+
+112
+00:09:51.650 --> 00:09:52.625
+See you next time.
