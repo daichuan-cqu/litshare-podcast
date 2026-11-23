@@ -17,6 +17,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EP4 | Nat Commun | John H. McGee: Trimerizer Peptides: Teaching E3 Ligases New Targets</title>
+      <description><![CDATA[Human cells have about 600 E3 ubiquitin ligases, but targeted protein degradation uses only a handful of them — most E3 surfaces are large and flat, with no pocket for a small molecule. A team from FOG Pharmaceuticals and Harvard reports a general method for discovering stapled alpha-helical peptides, "trimerizer" Helicons, that cooperatively glue an E3 ligase to a new target protein without needing a known binder to either. Two phage screens produced trimerizers for CHIP-TEAD4, CHIP-PPIA, and MDM2-beta-catenin, with crystal structures showing direct E3-target contacts — though all the data are in vitro, and degradation has not yet been shown.
+
+Paper: Tokareva, O. S. et al. "Recognition and reprogramming of E3 ubiquitin ligase surfaces by α-helical peptides." Nature Communications (2023). DOI: 10.1038/s41467-023-42395-z]]></description>
+      <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP4-0.8X.mp3" length="3466925" type="audio/mpeg" />
+      <podcast:transcript url="https://daichuan-cqu.github.io/litshare-podcast/EP4-transcript-0.8X.vtt" type="text/vtt" />
+      <guid>https://daichuan-cqu.github.io/litshare-podcast/EP4-0.8X.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 18:58:00 +0800</pubDate>
+      <itunes:duration>14:26</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>EP3 | Cell Chemical Biology | Christina M. Woo: The Degron, Rebuilt as a Warhead</title>
       <description><![CDATA[In 2022, Christina Woo's group at Harvard showed that cereblon (CRBN) naturally reads a small chemical tag: a C-terminal cyclic imide that forms when glutamine or asparagine residues age. In this follow-up study, the team asks the obvious next question. If the tag is the natural ligand, can you rebuild it as a drug warhead? The answer is the cyclimids, a class of degron-inspired CRBN binders that turn out to be tunable, predictable, and remarkably clean. Built as short dipeptides ending in a cyclic imide ring, forty BRD4 degraders showed the five-membered ring binds CRBN more tightly than the six-membered one, and a quantitative TR-FRET platform measuring the ternary complex directly predicted degradation in cells.
 
