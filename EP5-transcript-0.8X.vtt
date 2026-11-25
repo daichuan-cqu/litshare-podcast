@@ -1,0 +1,562 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.300
+David: Welcome to LitShare.
+
+2
+00:00:01.900 --> 00:00:04.450
+This is Protein Degradation English
+Corner.
+
+3
+00:00:04.512 --> 00:00:05.762
+Episode five.
+
+4
+00:00:07.825 --> 00:00:11.425
+Angewandte Chemie International Edition,
+Stephen B. H. Kent.
+
+5
+00:00:12.375 --> 00:00:16.725
+Kinetically Controlled Ligation: Building
+Proteins from Both Ends.
+
+6
+00:00:18.950 --> 00:00:20.650
+This one is not a degradation story.
+
+7
+00:00:21.200 --> 00:00:24.425
+It is about building proteins, chemically,
+from scratch.
+
+8
+00:00:25.275 --> 00:00:26.400
+Here is the question.
+
+9
+00:00:27.250 --> 00:00:35.200
+If you want to make a protein in the lab,
+piece by piece, how do you join the pieces
+together, in any order you like?
+
+10
+00:00:36.300 --> 00:00:40.825
+Alex: That is the question a team at the
+University of Chicago set out to answer.
+
+11
+00:00:41.500 --> 00:00:44.500
+The paper is in Angewandte Chemie
+International Edition, 2006.
+
+12
+00:00:46.925 --> 00:00:47.675
+First author Duhee Bang.
+
+13
+00:00:49.275 --> 00:00:51.200
+Corresponding author Stephen Kent.
+
+14
+00:00:52.000 --> 00:00:53.825
+Co-author Brad Pentelute.
+
+15
+00:00:54.475 --> 00:00:58.550
+Their answer is a method called
+kinetically controlled ligation.
+
+16
+00:00:59.200 --> 00:01:00.900
+K-C-L for short.
+
+17
+00:01:01.225 --> 00:01:02.600
+David: Start with the background.
+
+18
+00:01:03.300 --> 00:01:06.200
+Chemical synthesis of proteins is not new,
+right?
+
+19
+00:01:07.000 --> 00:01:07.750
+Alex: Right.
+
+20
+00:01:08.200 --> 00:01:14.975
+The standard method is native chemical
+ligation, N-C-L. You take two peptide
+segments.
+
+21
+00:01:15.700 --> 00:01:19.925
+One ends in a thioester, a sulfur-
+containing reactive group.
+
+22
+00:01:20.325 --> 00:01:23.750
+The other starts with the amino acid
+cysteine.
+
+23
+00:01:24.350 --> 00:01:29.650
+They react, and you get one longer
+peptide, joined by a normal peptide bond.
+
+24
+00:01:30.275 --> 00:01:31.050
+It works well.
+
+25
+00:01:31.450 --> 00:01:33.125
+But it has a direction problem.
+
+26
+00:01:33.600 --> 00:01:35.350
+David: What is the direction problem?
+
+27
+00:01:36.050 --> 00:01:43.325
+Alex: In native chemical ligation, you can
+only build in one direction, toward the
+N-terminus, the start of the chain.
+
+28
+00:01:44.275 --> 00:01:49.825
+Each new segment must bring its own
+thioester, and it must react before the
+next one.
+
+29
+00:01:51.125 --> 00:01:59.200
+You cannot protect the thioester group, so
+you cannot hold a segment in reserve, and
+you cannot build in the other direction.
+
+30
+00:01:59.950 --> 00:02:03.800
+The synthesis is sequential, one segment
+at a time.
+
+31
+00:02:04.125 --> 00:02:07.200
+David: And that is slow, if the protein is
+long.
+
+32
+00:02:08.000 --> 00:02:08.450
+Alex: Exactly.
+
+33
+00:02:09.300 --> 00:02:15.875
+A truly convergent synthesis would build
+several pieces in parallel, then join them
+all at the end.
+
+34
+00:02:16.475 --> 00:02:17.800
+It is much more efficient.
+
+35
+00:02:18.325 --> 00:02:22.350
+But without a way to protect the
+thioester, you cannot do it.
+
+36
+00:02:23.125 --> 00:02:27.375
+David: So what is the trick in kinetically
+controlled ligation?
+
+37
+00:02:28.125 --> 00:02:29.650
+Alex: The trick is a rate difference.
+
+38
+00:02:30.175 --> 00:02:31.900
+There are two kinds of thioesters.
+
+39
+00:02:32.550 --> 00:02:42.175
+An aryl thioester, in this case a
+thiophenyl ester, reacts with a cysteine
+peptide much faster than a standard alkyl
+thioester.
+
+40
+00:02:42.850 --> 00:02:50.975
+In the same solution, without any added
+thiophenol catalyst, the alkyl thioester
+is effectively unreactive.
+
+41
+00:02:51.550 --> 00:02:52.600
+It just sits there.
+
+42
+00:02:52.975 --> 00:02:55.225
+David: So you can pick which one reacts.
+
+43
+00:02:56.025 --> 00:02:56.300
+Alex: Yes.
+
+44
+00:02:56.925 --> 00:03:06.200
+Take a bifunctional peptide: it starts
+with cysteine at its N-terminus, and it
+ends with an alkyl thioester at its
+C-terminus.
+
+45
+00:03:06.900 --> 00:03:15.700
+In a solution with an aryl thioester
+partner and no added catalyst, it reacts
+only through its N-terminal cysteine.
+
+46
+00:03:16.375 --> 00:03:21.625
+Its own C-terminal thioester stays intact,
+ready for the next step.
+
+47
+00:03:21.625 --> 00:03:23.825
+David: That gives you the missing
+direction.
+
+48
+00:03:24.625 --> 00:03:25.025
+Alex: It does.
+
+49
+00:03:25.650 --> 00:03:31.525
+Now you can build in the N-to-C direction,
+toward the C-terminus, the end of the
+chain.
+
+50
+00:03:32.225 --> 00:03:36.425
+Combine that with the standard direction,
+and you can build from both ends.
+
+51
+00:03:37.375 --> 00:03:39.975
+David: There is also a protecting group in
+this story.
+
+52
+00:03:41.500 --> 00:03:42.150
+T-H-Z.
+
+53
+00:03:43.975 --> 00:03:46.500
+Alex: Yes, T-H-Z, short for thiazolidine.
+
+54
+00:03:48.100 --> 00:03:50.425
+It is a masked form of cysteine.
+
+55
+00:03:50.975 --> 00:03:58.325
+You can keep a cysteine protected as T-H-Z
+while you do other chemistry, then unmask
+it when you need it.
+
+56
+00:03:58.850 --> 00:04:08.425
+And the unmasking is gentle: zero point
+two molar methoxyamine hydrochloride, in
+two hours, and the reaction is
+quantitative.
+
+57
+00:04:09.150 --> 00:04:11.750
+The thioester survives untouched.
+
+58
+00:04:12.275 --> 00:04:13.600
+David: How gentle is gentle?
+
+59
+00:04:14.375 --> 00:04:16.500
+The thioester is a reactive group.
+
+60
+00:04:17.075 --> 00:04:18.225
+Does it really survive?
+
+61
+00:04:19.125 --> 00:04:20.750
+Alex: That is the point of the paper.
+
+62
+00:04:21.525 --> 00:04:33.950
+The methoxyamine treatment converts the
+T-H-Z peptide to a cysteine peptide
+quantitatively, and the alkyl thioester at
+the other end is undamaged.
+
+63
+00:04:36.450 --> 00:04:57.300
+You get a bifunctional building block,
+ready to react at the cysteine end and
+still carrying its thioester for later.
+
+64
+00:06:04.725 --> 00:06:05.725
+David: Then the proof.
+
+65
+00:06:06.975 --> 00:06:08.775
+They built a real protein.
+
+66
+00:06:09.825 --> 00:06:16.425
+Alex: They built crambin, a small protein
+of forty-six amino acids, from six peptide
+segments.
+
+67
+00:06:16.975 --> 00:06:21.575
+It is a model protein, well studied, with
+three disulfide bonds.
+
+68
+00:06:22.275 --> 00:06:25.300
+The plan is a good picture of convergent
+synthesis.
+
+69
+00:06:26.125 --> 00:06:34.800
+The left half, residues one to twenty-
+five, is built toward the N-terminus, in
+two kinetically controlled ligations.
+
+70
+00:06:35.375 --> 00:06:47.825
+The right half, residues twenty-six to
+forty-six, is built toward the C-terminus,
+one kinetically controlled ligation plus
+one standard native chemical ligation.
+
+71
+00:06:48.100 --> 00:06:50.250
+David: Then the two halves join.
+
+72
+00:06:51.100 --> 00:06:52.225
+Alex: In a final ligation, number five.
+
+73
+00:06:53.375 --> 00:06:58.825
+The left half, carrying its alkyl
+thioester, reacts with the right half,
+which starts with cysteine twenty-six.
+
+74
+00:07:00.975 --> 00:07:04.250
+Standard native chemical ligation
+conditions, overnight.
+
+75
+00:07:04.875 --> 00:07:09.300
+Then the full chain folds, and the three
+disulfide bonds form.
+
+76
+00:07:09.850 --> 00:07:11.600
+David: How well did the key step work?
+
+77
+00:07:12.500 --> 00:07:14.900
+The first kinetically controlled ligation?
+
+78
+00:07:14.900 --> 00:07:16.250
+Alex: Very well.
+
+79
+00:07:16.675 --> 00:07:24.675
+At pH six point eight, with no thiophenol
+added, it was complete in one hour, in
+near-quantitative yield.
+
+80
+00:07:25.425 --> 00:07:33.875
+The side products were small: less than
+one point five percent of a cyclized
+byproduct, and about one percent of
+oligomer.
+
+81
+00:07:36.925 --> 00:07:37.225
+David: And the folding?
+
+82
+00:07:37.225 --> 00:07:37.500
+Alex: Also fast and clean.
+
+83
+00:07:38.100 --> 00:07:42.325
+The full chain folded within one hour, in
+near-quantitative yield.
+
+84
+00:07:42.800 --> 00:07:58.050
+And the mass confirmed it: four thousand
+seven hundred and two daltons observed,
+against four thousand seven hundred and
+two point four calculated, for the folded
+protein with all three disulfide bonds
+formed.
+
+85
+00:07:58.425 --> 00:07:59.825
+David: So the chemistry works.
+
+86
+00:08:00.600 --> 00:08:01.375
+What are the limits?
+
+87
+00:08:02.800 --> 00:08:03.725
+Alex: Three, mainly.
+
+88
+00:08:04.575 --> 00:08:09.100
+First, this is one small model protein,
+forty-six residues.
+
+89
+00:08:09.825 --> 00:08:23.525
+Larger targets, erythropoietin, the H-I-V
+one protease, and a potassium channel
+interacting protein called K-C-H-I-P, were
+in progress, but no results are shown
+here.
+
+90
+00:08:23.975 --> 00:08:24.525
+David: Second?
+
+91
+00:08:25.350 --> 00:08:28.050
+Alex: The amino acid at the C-terminus
+matters.
+
+92
+00:08:28.550 --> 00:08:30.825
+A bulky residue slows the reaction.
+
+93
+00:08:33.850 --> 00:08:36.475
+Isoleucine, threonine, and valine react
+much more slowly than alanine.
+
+94
+00:08:37.375 --> 00:08:41.875
+So when you design the segments, you have
+to choose the cut points carefully.
+
+95
+00:08:42.400 --> 00:08:43.575
+David: And the third?
+
+96
+00:08:44.225 --> 00:08:45.250
+Alex: A side reaction.
+
+97
+00:08:45.925 --> 00:08:54.225
+If a peptide has an internal cysteine, its
+free thiol can attack the thioester and
+form a thiolactone, a ring.
+
+98
+00:08:54.225 --> 00:08:59.950
+The good news is that it converts back to
+the alkyl thioester, so it is manageable.
+
+99
+00:09:00.625 --> 00:09:02.475
+But it is something to watch for.
+
+100
+00:09:02.900 --> 00:09:04.200
+David: Why does this matter?
+
+101
+00:09:04.900 --> 00:09:06.975
+Forty-six residues is small.
+
+102
+00:09:07.650 --> 00:09:09.250
+Alex: Because it proves the principle.
+
+103
+00:09:09.775 --> 00:09:14.075
+Kinetically controlled ligation makes
+fully convergent synthesis real.
+
+104
+00:09:14.725 --> 00:09:20.475
+You can build both halves of a protein at
+the same time, in parallel, and join them
+at the end.
+
+105
+00:09:21.050 --> 00:09:23.650
+For larger proteins, that changes the
+arithmetic.
+
+106
+00:09:24.325 --> 00:09:35.950
+And in the long run, chemical synthesis
+can make proteins that biology cannot
+easily make, with unnatural amino acids,
+labels, or modifications built in from the
+start.
+
+107
+00:09:36.275 --> 00:09:37.700
+David: A method paper, then.
+
+108
+00:09:38.500 --> 00:09:42.000
+Not a new protein, but a new way to build
+proteins.
+
+109
+00:09:42.850 --> 00:09:43.350
+Alex: Exactly.
+
+110
+00:09:44.325 --> 00:09:47.425
+Native chemical ligation gave chemists one
+direction.
+
+111
+00:09:48.200 --> 00:09:50.925
+Kinetically controlled ligation gives them
+the other.
+
+112
+00:09:51.700 --> 00:09:56.700
+And with both directions, convergent
+synthesis of proteins becomes possible.
+
+113
+00:09:57.500 --> 00:09:59.175
+David: That is it for this episode.
+
+114
+00:09:59.675 --> 00:10:04.175
+You have been listening to Protein
+Degradation English Corner, from Litshare.
+
+115
+00:10:04.775 --> 00:10:05.700
+See you next time.
