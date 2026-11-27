@@ -1,0 +1,588 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+David: Welcome to LitShare.
+
+2
+00:00:02.525 --> 00:00:05.150
+This is Protein Degradation English
+Corner.
+
+3
+00:00:05.212 --> 00:00:06.462
+Episode six.
+
+4
+00:00:07.350 --> 00:00:09.650
+Science, Gabriel C. Lander.
+
+5
+00:00:10.375 --> 00:00:12.950
+How Molecular Glues Close Cereblon.
+
+6
+00:00:13.700 --> 00:00:17.325
+Today we ask a simple question with a
+surprising answer.
+
+7
+00:00:18.225 --> 00:00:23.775
+Molecular glue drugs work by sticking a
+protein-degrading machine to a new target.
+
+8
+00:00:24.625 --> 00:00:27.975
+But how does a tiny drug reshape the
+machine itself?
+
+9
+00:00:28.875 --> 00:00:33.275
+Alex: The machine is cereblon, C-R-B-N for
+short.
+
+10
+00:00:33.575 --> 00:00:38.925
+It is the substrate receptor of a
+ubiquitin ligase called C-R-L-4.
+
+11
+00:00:40.100 --> 00:00:47.375
+Its job is to pick up proteins and hand
+them to the ligase, which tags them with
+ubiquitin, marking them for destruction.
+
+12
+00:00:48.400 --> 00:00:59.000
+And cereblon is also the target of a
+family of drugs called C-E-L-MoD agents,
+short for cereblon E3 ligase modulatory
+drugs.
+
+13
+00:01:00.825 --> 00:01:01.225
+Lenalidomide is the famous one.
+
+14
+00:01:02.550 --> 00:01:07.275
+It has been a first-line treatment for
+multiple myeloma for more than a decade.
+
+15
+00:01:08.050 --> 00:01:15.200
+David: So the drug binds cereblon, and
+cereblon grabs a new protein it would
+normally ignore.
+
+16
+00:01:16.100 --> 00:01:16.475
+Alex: Exactly.
+
+17
+00:01:17.425 --> 00:01:24.125
+The drug sits in a pocket on cereblon
+called the thalidomide-binding domain, and
+it creates a new surface.
+
+18
+00:01:24.900 --> 00:01:34.800
+A protein that would never bind cereblon
+on its own, a so-called neosubstrate, now
+sticks to that surface, gets tagged, and
+gets destroyed.
+
+19
+00:01:35.575 --> 00:01:37.675
+That is the molecular glue idea.
+
+20
+00:01:37.675 --> 00:01:53.875
+David: And this paper, from Gabriel
+Lander's group at Scripps Research and
+Bristol-Myers Squibb, asks what the drug
+actually does to cereblon — not just where
+it binds, but how it changes the shape of
+the whole complex.
+
+21
+00:01:54.500 --> 00:02:04.400
+Alex: To answer that, they used cryo-
+electron microscopy, cryo-E-M for short,
+to look at cereblon in solution, with no
+drug at all.
+
+22
+00:02:05.075 --> 00:02:13.200
+Cereblon works together with an adaptor
+protein called D-D-B-1, DNA damage-binding
+protein one.
+
+23
+00:02:13.200 --> 00:02:15.200
+And here is the surprise.
+
+24
+00:02:15.900 --> 00:02:18.425
+Without a drug, cereblon is open.
+
+25
+00:02:19.150 --> 00:02:19.550
+David: Open?
+
+26
+00:02:20.150 --> 00:02:23.150
+I thought every structure of cereblon
+showed it closed.
+
+27
+00:02:24.300 --> 00:02:26.175
+Alex: Every crystal structure did.
+
+28
+00:02:26.625 --> 00:02:35.125
+Over a dozen of them show the two ends of
+cereblon, the Lon domain and the
+thalidomide-binding domain, pressed
+tightly together.
+
+29
+00:02:35.825 --> 00:02:37.275
+That is the closed form.
+
+30
+00:02:37.950 --> 00:02:50.225
+But in solution, with no drug and no
+substrate, the new cryo-E-M structure
+shows something else: the two domains
+separated, at roughly a forty-five-degree
+angle.
+
+31
+00:02:50.875 --> 00:02:54.950
+The protein is open, in every single
+particle they looked at.
+
+32
+00:02:55.375 --> 00:03:01.000
+David: So the closed form drug designers
+have studied for years is not the resting
+state at all.
+
+33
+00:03:01.675 --> 00:03:02.075
+Alex: That is the point.
+
+34
+00:03:03.300 --> 00:03:05.275
+And there is a reason it stays open.
+
+35
+00:03:05.925 --> 00:03:18.200
+A flexible loop called the sensor loop
+reaches across and holds on to the middle
+of the protein and to D-D-B-1, acting like
+a tether that keeps the two domains apart.
+
+36
+00:03:18.200 --> 00:03:20.850
+David: Then what happens when a drug
+arrives?
+
+37
+00:03:21.700 --> 00:03:23.800
+Alex: They tried pomalidomide first.
+
+38
+00:03:24.475 --> 00:03:26.025
+The drug binds, no question.
+
+39
+00:03:26.575 --> 00:03:29.950
+They can see it sitting in its pocket,
+even in the open form.
+
+40
+00:03:30.600 --> 00:03:32.025
+But binding is not enough.
+
+41
+00:03:32.700 --> 00:03:35.600
+Only about twenty percent of the particles
+close up.
+
+42
+00:03:36.225 --> 00:03:40.875
+The rest stay open, with the drug bound
+and the sensor loop still tethered.
+
+43
+00:03:41.275 --> 00:03:44.475
+David: So binding and closing are two
+separate steps.
+
+44
+00:03:45.325 --> 00:03:48.500
+The drug can sit in the pocket without
+flipping the switch.
+
+45
+00:03:48.500 --> 00:03:49.750
+Alex: Exactly.
+
+46
+00:03:50.575 --> 00:03:55.450
+And that matters, because only the closed
+form can grab a substrate.
+
+47
+00:03:56.150 --> 00:04:05.525
+To close, the sensor loop has to let go of
+its tether, fold into a tight beta
+hairpin, and tuck itself between the two
+domains.
+
+48
+00:04:05.525 --> 00:04:21.050
+Then a stretch at the very start of
+cereblon, residues forty-eight to sixty-
+three, becomes ordered and wraps around
+the thalidomide-binding domain like a
+belt, holding the closed form together.
+
+49
+00:04:21.425 --> 00:04:23.375
+David: Did they test that belt?
+
+50
+00:04:24.125 --> 00:04:24.650
+Alex: They did.
+
+51
+00:04:25.075 --> 00:04:34.100
+They cut off the first sixty-three amino
+acids, and with the belt gone,
+pomalidomide could barely close cereblon
+at all.
+
+52
+00:04:34.750 --> 00:04:37.100
+Less than two percent of the particles
+closed.
+
+53
+00:04:37.700 --> 00:04:39.025
+The belt is essential.
+
+54
+00:04:39.025 --> 00:04:42.200
+David: So pomalidomide is a weak closer.
+
+55
+00:04:42.900 --> 00:04:44.225
+What about the newer drugs?
+
+56
+00:04:45.125 --> 00:04:46.875
+Alex: That is where it gets interesting.
+
+57
+00:04:48.500 --> 00:05:01.275
+Iberdomide, a next-generation C-E-L-MoD
+drug, binds cereblon about twenty times
+more tightly than pomalidomide, and it
+degrades the protein Ikaros about twenty-
+four times better.
+
+58
+00:05:02.150 --> 00:05:06.925
+In the cryo-E-M data, nearly fifty percent
+of the particles are closed.
+
+59
+00:05:08.475 --> 00:05:21.275
+Iberdomide carries extra groups, a phenyl
+ring and a morpholino group, that arch
+over the sensor loop, helping it fold into
+its beta hairpin shape and pushing the
+protein toward the closed form.
+
+60
+00:05:21.550 --> 00:05:23.900
+David: Is there independent evidence for
+that?
+
+61
+00:05:27.400 --> 00:05:28.000
+Cryo-E-M is one technique.
+
+62
+00:05:29.175 --> 00:05:29.475
+Alex: Yes.
+
+63
+00:05:29.950 --> 00:05:38.625
+They also used hydrogen-deuterium exchange
+mass spectrometry, which measures how
+exposed each part of a protein is to
+water.
+
+64
+00:05:39.275 --> 00:05:47.775
+With iberdomide bound, the interface
+between the two domains becomes much less
+exposed, exactly as closing predicts.
+
+65
+00:05:47.775 --> 00:05:54.575
+The biggest change is in the sensor loop
+itself, consistent with it folding into
+that buried hairpin.
+
+66
+00:05:55.800 --> 00:05:56.900
+David: And the substrate?
+
+67
+00:05:57.775 --> 00:05:59.800
+When does Ikaros actually join?
+
+68
+00:06:00.550 --> 00:06:01.575
+Alex: Only after closing.
+
+69
+00:06:02.100 --> 00:06:09.100
+They mixed cereblon with Ikaros, using its
+first three zinc finger domains, and added
+either pomalidomide or iberdomide.
+
+70
+00:06:10.550 --> 00:06:14.075
+In every case, Ikaros shows up only on the
+closed form.
+
+71
+00:06:14.675 --> 00:06:16.975
+They never saw it bound to the open form.
+
+72
+00:06:17.625 --> 00:06:19.075
+The order of events is clear.
+
+73
+00:06:19.075 --> 00:06:24.650
+The drug binds, the protein closes, and
+only then does the substrate get
+recruited.
+
+74
+00:06:25.400 --> 00:06:27.775
+David: There is another moving part here,
+right?
+
+75
+00:06:28.600 --> 00:06:30.900
+D-D-B-1 itself has a mobile piece.
+
+76
+00:06:32.200 --> 00:06:32.525
+Alex: Yes.
+
+77
+00:06:33.250 --> 00:06:42.650
+One of the three propeller-shaped domains
+of D-D-B-1, called B-P-B, can sit in three
+distinct positions: linear, hinged, and
+twisted.
+
+78
+00:06:43.325 --> 00:06:51.950
+In the free complex, about sixty-five
+percent are linear, twenty to thirty
+percent are hinged, and under ten percent
+are twisted.
+
+79
+00:06:51.950 --> 00:07:02.175
+The twisted position is the one that
+dominates when the ligase core is
+attached, so this may be how the complex
+positions the substrate for tagging.
+
+80
+00:07:02.400 --> 00:07:04.025
+David: Now the star of the paper:
+mezigdomide.
+
+81
+00:07:06.275 --> 00:07:13.825
+Alex: Mezigdomide is the newest of the
+three, and the most effective in patients
+who no longer respond to lenalidomide or
+pomalidomide.
+
+82
+00:07:15.325 --> 00:07:19.700
+With mezigdomide, one hundred percent of
+the particles are closed.
+
+83
+00:07:20.175 --> 00:07:21.500
+David: What makes it so different?
+
+84
+00:07:21.500 --> 00:07:23.300
+Alex: It reaches further.
+
+85
+00:07:24.000 --> 00:07:34.925
+The drug has a benzonitrile group that
+sticks out of the binding pocket and
+reaches across to the Lon domain, where it
+is held by two phenylalanine side chains,
+at positions one-oh-two and one-five-oh.
+
+86
+00:07:38.275 --> 00:07:45.225
+So the drug itself staples the two domains
+together, doing the job the N-terminal
+belt normally does.
+
+87
+00:07:46.075 --> 00:07:52.500
+In fact, in the mezigdomide data, many
+closed particles do not even show the
+belt.
+
+88
+00:07:53.000 --> 00:07:54.500
+The drug replaces it.
+
+89
+00:07:54.500 --> 00:07:58.125
+David: And does that translate into better
+degradation?
+
+90
+00:07:59.100 --> 00:07:59.450
+Alex: It does.
+
+91
+00:08:00.825 --> 00:08:13.800
+Ikaros is recruited to the mezigdomide-
+bound closed form, and in test-tube
+ubiquitination assays with the full ligase
+core, Ikaros gets tagged more efficiently
+than with the older drugs.
+
+92
+00:08:14.425 --> 00:08:24.425
+The authors' model is that mezigdomide
+keeps the protein closed longer, so each
+round of substrate binding and tagging
+runs more smoothly.
+
+93
+00:08:25.025 --> 00:08:28.750
+David: So the design lesson is not just
+about binding tightly.
+
+94
+00:08:28.750 --> 00:08:30.425
+Alex: That is the takeaway.
+
+95
+00:08:31.175 --> 00:08:38.525
+For years, cereblon drug design focused on
+affinity: how tightly the drug binds, and
+how tightly the substrate binds.
+
+96
+00:08:39.250 --> 00:08:46.550
+This paper adds a third dimension: how
+well the drug closes cereblon, and how
+long it keeps it closed.
+
+97
+00:08:47.525 --> 00:08:55.850
+A drug that staples the closed form, or
+stabilizes the sensor loop hairpin, can
+outperform one that merely binds well.
+
+98
+00:08:56.700 --> 00:09:02.650
+The authors suggest the same idea could
+apply to other molecular glues, and even
+to PROTACs.
+
+99
+00:09:03.325 --> 00:09:05.200
+David: What are the limits here?
+
+100
+00:09:05.775 --> 00:09:06.150
+Alex: A few.
+
+101
+00:09:06.800 --> 00:09:13.700
+These are snapshots of purified proteins
+in a test tube, not movies inside a living
+cell.
+
+102
+00:09:14.725 --> 00:09:22.950
+The iberdomide-sensor loop interaction is
+probably dynamic, and its details sit at
+the edge of what the maps can resolve.
+
+103
+00:09:23.750 --> 00:09:34.975
+And stapling the closed form has not yet
+been tested on other glues or PROTACs — it
+is a proposal, backed by three drugs, not
+a proven rule.
+
+104
+00:09:34.975 --> 00:09:37.775
+David: Still, it reframes the whole
+problem.
+
+105
+00:09:38.225 --> 00:09:39.625
+The drug is not just a glue.
+
+106
+00:09:40.425 --> 00:09:41.025
+It is a switch.
+
+107
+00:09:41.700 --> 00:09:42.300
+Alex: Exactly.
+
+108
+00:09:43.325 --> 00:09:45.075
+Cereblon sits open, waiting.
+
+109
+00:09:45.850 --> 00:09:52.650
+The drug binds, the sensor loop refolds,
+the belt fastens, and the machine closes
+around its new target.
+
+110
+00:09:53.400 --> 00:09:57.875
+That closing step, not just the binding,
+is what makes the drug work.
+
+111
+00:09:58.650 --> 00:10:00.125
+David: That is it for this episode.
+
+112
+00:10:00.650 --> 00:10:04.975
+You have been listening to Protein
+Degradation English Corner, from Litshare.
+
+113
+00:10:05.575 --> 00:10:06.425
+See you next time.

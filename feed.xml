@@ -17,6 +17,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EP6 | Science | Gabriel C. Lander: How Molecular Glues Close Cereblon</title>
+      <description><![CDATA[Molecular glue drugs work by sticking the cereblon (CRBN) ubiquitin ligase to a new target — but a cryo-EM study from Gabriel Lander's group at Scripps Research, with Bristol-Myers Squibb, shows the drug does more than stick: it reshapes the machine. In solution, drug-free CRBN-DDB1 is exclusively open, held apart by a sensor loop tether. Pomalidomide binds yet closes only about 20% of the particles; iberdomide closes about 50%; mezigdomide closes 100%, stapling the two domains together with a benzonitrile group that reaches the Lon domain. Ikaros binds only the closed form, never the open one — drug-induced closing happens first, substrate recruitment follows. The lesson for drug design: how well a drug closes cereblon, and how long it keeps it closed, is a third dimension beyond binding affinity.
+
+Paper: Watson, E. R. et al. "Molecular glue CELMoD compounds are regulators of cereblon conformation." Science (2022). DOI: 10.1126/science.add7574]]></description>
+      <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP6-0.8X.mp3" length="2428877" type="audio/mpeg" />
+      <podcast:transcript url="https://daichuan-cqu.github.io/litshare-podcast/EP6-transcript-0.8X.vtt" type="text/vtt" />
+      <guid>https://daichuan-cqu.github.io/litshare-podcast/EP6-0.8X.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 19:33:19 +0800</pubDate>
+      <itunes:duration>10:07</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>EP5 | Angew Chem Int Ed | Stephen B. H. Kent: Kinetically Controlled Ligation: Building Proteins from Both Ends</title>
       <description><![CDATA[Chemical synthesis of proteins has a direction problem: native chemical ligation can only join peptide segments toward the N-terminus, because the thioester group cannot be protected. A team at the University of Chicago, led by Stephen Kent, reports kinetically controlled ligation, which uses the rate difference between aryl and alkyl thioesters to join segments selectively in either direction. With a Thz protecting group removed quantitatively by methoxyamine, they assembled the 46-residue protein crambin from six segments, building the two halves in opposite directions and joining them in a final ligation, then folding to the correct three-disulfide structure.
 
