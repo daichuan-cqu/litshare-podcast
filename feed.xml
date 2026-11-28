@@ -17,6 +17,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EP7 | Protein Sci | Ronald T. Raines: A Designer KRAS Binder Delivers Degradation from Outside</title>
+      <description><![CDATA[KRAS is a classic undruggable target: a small GTPase whose mutants drive cancer, with no deep pocket for a small molecule. Protein-based degraders (bioPROTACs) can bind it, but they must be expressed inside the cell from DNA. A team at MIT built a chimera instead: the designer KRAS binder R11 (Sso7d-derived, 7 kDa, 4 nM affinity for KRAS G12D), chemically conjugated to a small-molecule VHL ligand and delivered from outside the cell. In HPAF-II cells, the esterified conjugate lowered pan-RAS by about 40% at 10 μM in 24 hours, fully blocked by excess free VHL ligand — but KRAS G12D itself only trended down, and the conjugate was inactive in two other KRAS G12D lines. A proof of concept with honest limitations, and design rules for exogenously delivered biodegraders.
+
+Paper: Okon, A. et al. "A designer protein binder of KRAS enables exogenous protein degradation." Protein Science (2026). DOI: 10.1002/pro.70850]]></description>
+      <enclosure url="https://daichuan-cqu.github.io/litshare-podcast/EP7-0.8X.mp3" length="2552045" type="audio/mpeg" />
+      <podcast:transcript url="https://daichuan-cqu.github.io/litshare-podcast/EP7-transcript-0.8X.vtt" type="text/vtt" />
+      <guid>https://daichuan-cqu.github.io/litshare-podcast/EP7-0.8X.mp3</guid>
+      <pubDate>Sat, 28 Nov 2026 21:08:00 +0800</pubDate>
+      <itunes:duration>10:38</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>EP6 | Science | Gabriel C. Lander: How Molecular Glues Close Cereblon</title>
       <description><![CDATA[Molecular glue drugs work by sticking the cereblon (CRBN) ubiquitin ligase to a new target — but a cryo-EM study from Gabriel Lander's group at Scripps Research, with Bristol-Myers Squibb, shows the drug does more than stick: it reshapes the machine. In solution, drug-free CRBN-DDB1 is exclusively open, held apart by a sensor loop tether. Pomalidomide binds yet closes only about 20% of the particles; iberdomide closes about 50%; mezigdomide closes 100%, stapling the two domains together with a benzonitrile group that reaches the Lon domain. Ikaros binds only the closed form, never the open one — drug-induced closing happens first, substrate recruitment follows. The lesson for drug design: how well a drug closes cereblon, and how long it keeps it closed, is a third dimension beyond binding affinity.
 

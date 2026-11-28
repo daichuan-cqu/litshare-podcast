@@ -1,0 +1,587 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.925
+David: Welcome to LitShare.
+
+2
+00:00:02.500 --> 00:00:05.250
+This is Protein Degradation English
+Corner.
+
+3
+00:00:05.312 --> 00:00:06.562
+Episode seven.
+
+4
+00:00:07.500 --> 00:00:10.025
+Protein Science, Ronald T. Raines.
+
+5
+00:00:11.500 --> 00:00:16.550
+A Designer KRAS Binder Delivers
+Degradation from Outside.
+
+6
+00:00:18.500 --> 00:00:25.000
+This one is about a famously undruggable
+protein, and a degrader that comes from
+outside the cell.
+
+7
+00:00:26.500 --> 00:00:27.075
+Here is the question.
+
+8
+00:00:29.700 --> 00:00:34.750
+KRAS drives many cancers, but it has no
+pocket for a small molecule drug.
+
+9
+00:00:34.750 --> 00:00:37.525
+How do you destroy it anyway?
+
+10
+00:00:38.775 --> 00:00:42.175
+Alex: That is the question a team at M-I-T
+set out to answer.
+
+11
+00:00:42.900 --> 00:00:44.350
+The paper is in Protein Science, 2026.
+
+12
+00:00:46.700 --> 00:00:49.875
+First authors Aniekan Okon and Keith
+Cheah.
+
+13
+00:00:51.025 --> 00:00:53.925
+Corresponding authors Ronald Raines and
+Dane Wittrup.
+
+14
+00:00:55.225 --> 00:01:04.775
+Their answer is a chimeric degrader: a
+designer protein that grabs KRAS,
+chemically linked to a small molecule that
+recruits an E3 ligase.
+
+15
+00:01:05.950 --> 00:01:07.475
+David: Start with the problem.
+
+16
+00:01:08.400 --> 00:01:10.775
+Why is KRAS so hard to drug?
+
+17
+00:01:12.375 --> 00:01:17.600
+Alex: KRAS is a small G-T-Pase, a
+molecular switch that tells cells to grow.
+
+18
+00:01:18.275 --> 00:01:20.750
+When it mutates, the switch sticks on.
+
+19
+00:01:21.575 --> 00:01:27.525
+One common mutation is G twelve D, glycine
+to aspartate at position twelve.
+
+20
+00:01:29.175 --> 00:01:35.250
+The problem is the surface: smooth, with
+no deep pocket for a small molecule to
+grab.
+
+21
+00:01:35.800 --> 00:01:38.850
+David: And targeted protein degradation
+should help, right?
+
+22
+00:01:39.825 --> 00:01:42.750
+You do not need a deep pocket, just a
+binder.
+
+23
+00:01:43.375 --> 00:01:44.850
+Alex: In principle, yes.
+
+24
+00:01:45.700 --> 00:01:58.675
+Targeted protein degradation, T-P-D,
+brings an E3 ubiquitin ligase close to the
+target, so the ligase tags it with
+ubiquitin, and the proteasome destroys it.
+
+25
+00:01:59.300 --> 00:02:04.250
+A small molecule PROTAC does this with two
+small-molecule ends.
+
+26
+00:02:04.975 --> 00:02:12.675
+But for KRAS, even a PROTAC needs a small
+molecule that binds KRAS, and that is the
+hard part.
+
+27
+00:02:13.325 --> 00:02:15.900
+David: What about protein-based degraders,
+the bioPROTACs?
+
+28
+00:02:17.525 --> 00:02:18.725
+Alex: Those exist.
+
+29
+00:02:19.400 --> 00:02:23.575
+You fuse a target-binding protein to an
+E3-recruiting piece.
+
+30
+00:02:24.125 --> 00:02:25.400
+The trouble is delivery.
+
+31
+00:02:26.275 --> 00:02:38.100
+A bioPROTAC is a gene product, expressed
+inside the target cell from D-N-A. You
+cannot just add it from the outside, the
+way you can with a small molecule drug.
+
+32
+00:02:38.475 --> 00:02:39.900
+David: So this paper bridges the two.
+
+33
+00:02:41.425 --> 00:02:42.150
+Alex: Exactly.
+
+34
+00:02:42.975 --> 00:02:51.750
+The team built a chimera: a designer
+protein binder, joined by a chemical bond
+to a small-molecule V-H-L ligand.
+
+35
+00:02:52.225 --> 00:03:01.225
+The protein gives the binding, the small
+molecule recruits the E3 ligase, and the
+whole thing is delivered from outside the
+cell.
+
+36
+00:03:02.200 --> 00:03:03.775
+David: Tell me about the binder.
+
+37
+00:03:04.425 --> 00:03:04.975
+R eleven.
+
+38
+00:03:06.100 --> 00:03:17.750
+Alex: R eleven is a small protein, seven
+kilodaltons, built on a scaffold called
+S-S-O seven D, a heat-stable protein from
+a heat-loving microbe.
+
+39
+00:03:18.275 --> 00:03:28.850
+It binds KRAS G twelve D with an affinity
+of four nanomolar, preferring the mutant
+over the wild-type protein by about ten-
+fold.
+
+40
+00:03:29.575 --> 00:03:35.775
+It has no cysteines, which matters: the
+team wanted to add one cysteine as a
+precise attachment point.
+
+41
+00:03:35.837 --> 00:03:38.025
+David: Why does the attachment point
+matter?
+
+42
+00:03:40.075 --> 00:03:47.075
+Alex: Because they need to link the V-H-L
+ligand at exactly one place, without
+breaking the part that touches KRAS.
+
+43
+00:03:48.450 --> 00:03:49.950
+That is engineering problem number one.
+
+44
+00:03:51.425 --> 00:03:52.725
+They tried two spots.
+
+45
+00:03:53.975 --> 00:04:00.400
+A cysteine at the N-terminus gave poor
+yield: half a milligram per liter, only
+eighty percent pure.
+
+46
+00:04:01.950 --> 00:04:12.475
+A cysteine at the C-terminus, replacing
+the last arginine, gave seven times more,
+three point five milligrams per liter,
+over ninety-five percent pure.
+
+47
+00:04:13.050 --> 00:04:16.550
+David: So the C-terminal version wins.
+
+48
+00:04:17.125 --> 00:04:18.300
+Alex: For production, yes.
+
+49
+00:04:18.825 --> 00:04:19.925
+But there is a cost.
+
+50
+00:04:20.800 --> 00:04:31.275
+The C-terminal version, once linked to the
+V-H-L ligand, binds KRAS G twelve D about
+ten times more weakly than the parent
+binder.
+
+51
+00:04:31.950 --> 00:04:36.775
+Still, the team chose it, because the
+yield advantage was so large.
+
+52
+00:04:37.225 --> 00:04:40.125
+David: Engineering problem number two is
+delivery, right?
+
+53
+00:04:40.800 --> 00:04:42.700
+Getting a protein into a cell.
+
+54
+00:04:43.300 --> 00:04:43.575
+Alex: Right.
+
+55
+00:04:44.200 --> 00:04:47.275
+Proteins do not cross cell membranes on
+their own.
+
+56
+00:04:47.950 --> 00:04:53.475
+The team used esterification, with a
+reagent called alpha-aryl-alpha-
+diazoamide.
+
+57
+00:04:55.500 --> 00:05:01.650
+It masks the protein's negative charges
+with ester groups, so the protein slips
+through the membrane.
+
+58
+00:05:02.450 --> 00:05:08.800
+Inside, the cell's own esterases cut the
+esters off, and the protein is free again.
+
+59
+00:05:09.075 --> 00:05:10.225
+David: Did it work?
+
+60
+00:05:11.300 --> 00:05:13.400
+Alex: They tested it with a fluorescent
+tag, BODIPY.
+
+61
+00:05:15.200 --> 00:05:21.500
+The esterified protein entered C-H-O-K-one
+cells, and they could see the glow inside.
+
+62
+00:05:22.550 --> 00:05:34.850
+Interestingly, R eleven light entered S-W
+forty-eight cells even without
+esterification, probably because its
+arginine-rich surface helps it cross the
+membrane on its own.
+
+63
+00:05:35.525 --> 00:05:39.450
+David: And problem number three: the
+binder itself getting ubiquitinated.
+
+64
+00:05:41.400 --> 00:05:41.725
+Alex: Yes.
+
+65
+00:05:42.125 --> 00:05:45.550
+The E3 ligase cannot tell the target from
+the binder.
+
+66
+00:05:46.375 --> 00:05:51.325
+R eleven has ten lysines, and lysine is
+where ubiquitin attaches.
+
+67
+00:05:52.100 --> 00:05:56.025
+If the ligase tags the binder, the binder
+gets destroyed too.
+
+68
+00:05:56.750 --> 00:06:14.100
+Three of those lysines, lysine thirty-two,
+lysine forty, and lysine fifty-nine, sit
+right at the interface with KRAS,
+according to a crystal structure, P-D-B
+entry five U-F-E. So the team could not
+remove those three.
+
+69
+00:06:15.650 --> 00:06:22.175
+They replaced lysines with arginines,
+which keep the positive charge but cannot
+be ubiquitinated.
+
+70
+00:06:22.725 --> 00:06:23.750
+David: Two versions, right?
+
+71
+00:06:24.675 --> 00:06:26.600
+Lysine-free and lysine-light.
+
+72
+00:06:27.425 --> 00:06:28.175
+Alex: Yes.
+
+73
+00:06:29.000 --> 00:06:32.900
+R eleven lysine-free has all ten lysines
+replaced.
+
+74
+00:06:33.575 --> 00:06:39.900
+It still binds KRAS, wild type and G
+twelve D, with nanomolar affinity.
+
+75
+00:06:40.650 --> 00:06:45.075
+But when they tried to link it to the
+V-H-L ligand, it precipitated.
+
+76
+00:06:45.675 --> 00:06:47.275
+It was not soluble enough.
+
+77
+00:06:48.175 --> 00:06:53.375
+R eleven light keeps only the three
+interface lysines and replaces the other
+seven.
+
+78
+00:06:54.625 --> 00:06:59.650
+It also keeps nanomolar affinity, and it
+conjugates cleanly.
+
+79
+00:07:00.300 --> 00:07:02.350
+Their isoelectric points rose to ten point
+one nine and nine point six nine, from
+nine point two six.
+
+80
+00:07:08.725 --> 00:07:10.500
+David: Now the key experiment.
+
+81
+00:07:11.250 --> 00:07:13.775
+Does it degrade KRAS in cells?
+
+82
+00:07:14.425 --> 00:07:36.400
+Alex: They tested it in H-P-A-F two cells,
+a pancreatic cancer line carrying KRAS G
+twelve D. The esterified R eleven V-H-L
+conjugate, added from outside, lowered
+total pan-RAS levels, all RAS family
+proteins together, in a dose-dependent
+way.
+
+83
+00:07:40.175 --> 00:07:47.600
+At ten micromolar, about forty percent was
+gone after twenty-four hours, four hours
+in serum-free medium, then twenty hours in
+complete medium.
+
+84
+00:07:48.250 --> 00:07:49.100
+David: Forty percent.
+
+85
+00:07:49.100 --> 00:07:53.275
+But what about KRAS G twelve D itself?
+
+86
+00:07:54.175 --> 00:07:55.550
+Alex: That is the interesting part.
+
+87
+00:07:57.725 --> 00:08:01.875
+KRAS G twelve D itself only trended
+downward, not statistically significant.
+
+88
+00:08:02.500 --> 00:08:17.075
+The pan-RAS signal dropped more, probably
+because these cells carry far more non-
+mutant RAS, about one point three
+micromolar, than KRAS G twelve D, and R
+eleven also binds wild-type KRAS.
+
+89
+00:08:17.825 --> 00:08:21.550
+David: How do they know the effect is
+really through V-H-L?
+
+90
+00:08:22.075 --> 00:08:23.625
+Alex: A competition experiment.
+
+91
+00:08:24.350 --> 00:08:35.375
+Adding a large excess of free V-H-L
+ligand, two hundred micromolar, together
+with the conjugate, erased the pan-RAS
+reduction completely.
+
+92
+00:08:36.150 --> 00:08:45.100
+So the effect depends on V-H-L. And the
+conjugate without esterification did
+nothing, so it has to get inside the cell.
+
+93
+00:08:45.700 --> 00:08:47.225
+David: What about other cell lines?
+
+94
+00:08:47.950 --> 00:08:49.750
+Alex: That is where it gets complicated.
+
+95
+00:08:50.650 --> 00:08:59.900
+In two other KRAS G twelve D lines, A-S-
+P-C one and S-W forty-eight G twelve D,
+the conjugate did nothing.
+
+96
+00:09:02.275 --> 00:09:06.325
+KRAS G twelve D even went slightly up,
+possibly a compensatory response.
+
+97
+00:09:07.300 --> 00:09:16.825
+The authors do not know why, maybe
+differences in uptake, esterase activity,
+V-H-L levels, or RAS isoform composition.
+
+98
+00:09:16.825 --> 00:09:19.225
+David: And the lysine-light version?
+
+99
+00:09:19.900 --> 00:09:20.800
+Alex: Also mixed.
+
+100
+00:09:21.250 --> 00:09:27.875
+R eleven light V-H-L worked once in H-P-
+A-F two cells, then failed in a repeat.
+
+101
+00:09:28.750 --> 00:09:31.250
+Removing lysines alone is not enough.
+
+102
+00:09:31.875 --> 00:09:35.925
+The attachment site, the linker, or the
+delivery still need work.
+
+103
+00:09:36.450 --> 00:09:37.425
+David: So what is the takeaway?
+
+104
+00:09:38.575 --> 00:09:39.000
+Alex: Two things.
+
+105
+00:09:39.550 --> 00:09:49.425
+First, a proof of concept: a chimeric
+degrader, part protein and part small
+molecule, can be delivered from outside
+the cell and degrade its target.
+
+106
+00:09:50.125 --> 00:09:59.150
+Second, design rules: where to put the
+conjugation site, how to protect the
+binder from self-destruction, and how to
+get it inside.
+
+107
+00:10:00.000 --> 00:10:10.100
+The approach fits targets that already
+have a protein binder but no small-
+molecule ligand, a fast way to test
+whether degrading that target is worth
+pursuing.
+
+108
+00:10:10.825 --> 00:10:12.825
+David: A modest result, but an honest one.
+
+109
+00:10:14.375 --> 00:10:14.725
+Alex: Exactly.
+
+110
+00:10:15.575 --> 00:10:21.750
+Ten micromolar, about forty percent
+degradation, only in one of three cell
+lines.
+
+111
+00:10:22.375 --> 00:10:23.375
+It is not a drug.
+
+112
+00:10:24.000 --> 00:10:28.725
+It is a tool, and a set of design
+principles for building the next version.
+
+113
+00:10:29.500 --> 00:10:31.075
+David: That is it for this episode.
+
+114
+00:10:31.600 --> 00:10:35.850
+You have been listening to Protein
+Degradation English Corner, from Litshare.
+
+115
+00:10:36.375 --> 00:10:37.325
+See you next time.
